@@ -1,0 +1,2 @@
+C:\Users\user\Source\Repos\Inventories\Inventories\obj\Debug\Inventories.csprojResolveAssemblyReference.cache
+C:\Users\user\Source\Repos\Inventories\Inventories\obj\Debug\Inventories.csproj.CoreCompileInputs.cache
